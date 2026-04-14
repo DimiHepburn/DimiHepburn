@@ -62,6 +62,7 @@ I'm a researcher and builder at the intersection of **neuroscience**, **artifici
 | [🧠 neuro-ai-bridge](https://github.com/DimiHepburn/neuro-ai-bridge) | Mapping neuroscientific principles onto deep learning architectures | Python, PyTorch |
 | [🤝 humanising-ai](https://github.com/DimiHepburn/humanising-ai) | Framework for building emotionally intelligent, human-centred AI systems | Python, HuggingFace, NLP |
 | [🔍 llm-interpretability-notes](https://github.com/DimiHepburn/llm-interpretability-notes) | Research notes and experiments on mechanistic interpretability of LLMs | Python, Jupyter |
+| [📖 neuro-readability](https://github.com/DimiHepburn/neuro-readability) | Neuroscience-informed CLI tool that scores any text for cognitive load, readability & complexity | Python, Click |
 
 ---
 
