@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dimitri+%F0%9F%A7%A0;Neuroscience+%2B+AI+Researcher;Humanising+Artificial+Intelligence;Bridging+Mind+%26+Machine" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dimitri+%F0%9F%A7%A0;Neuroscience+%2B+AI+Researcher;Building+Autonomous+AI+Agents;Bridging+Mind+%26+Machine" alt="Typing SVG" />
 
 <br/>
 
@@ -12,24 +12,27 @@
 
 ## 🧠 About Me
 
-I'm a researcher and builder at the intersection of **neuroscience**, **artificial intelligence**, and the **humanisation of AI systems**. My work is driven by a core question: *what does it mean for a machine to understand, and how close can we actually get?*
+I'm a researcher and builder working at the intersection of **neuroscience** and **artificial intelligence**. Currently studying **MSc Clinical Neuroscience** at the University of Roehampton (London), with a background in **Clinical Psychology** (BSc Hons, London South Bank University).
 
-- 🔬 Exploring **computational models of cognition** and how neuroscientific principles can improve AI architectures
-- 🤖 Passionate about **AI alignment**, **affective computing**, and making AI systems that are genuinely empathetic and human-centric
-- 🧬 Interested in the overlap between **neural plasticity**, **reinforcement learning**, and **emergent behaviour** in large models
-- 📚 Currently reading: *The Brain from Inside Out* — György Buzsáki
-- 💬 Ask me about: neuro-inspired AI, LLM interpretability, human-AI interaction, consciousness and computation
+My work spans from **building real AI systems** — autonomous research agents, custom hardware assistants, and MCP-integrated workflows — to **academic research** in neuroinflammation, the gut-brain axis, and psychopharmacology.
+
+- 🔧 Built a **custom AI assistant** on ESP32-S3 hardware with self-hosted inference and Anthropic API integration
+- 🤖 Developed an **autonomous research agent** using a ReAct reasoning loop with PubMed search and importance-weighted memory
+- 📐 Created the **Friction Protocol** — an original pedagogical framework for AI-augmented academic learning
+- 🧬 Designed the **MICROBE-D Study** — a proposed RCT investigating *Bifidobacterium breve* CCFM1025 for depression
+- 💬 Ask me about: neuro-AI, psychopharmacology, LLM interpretability, brain-computer interfaces, gut-brain axis
 
 ---
 
 ## 🔭 Research Interests
 
 ```
-🧠 Computational Neuroscience      →  Neural coding, predictive processing, Hebbian learning
-🤝 AI Humanisation                 →  Affective computing, empathetic AI, conversational agents
-🔍 Mechanistic Interpretability    →  Understanding what happens inside transformers
-🌐 Human-AI Interaction (HAI)      →  Trust, transparency, explainability (XAI)
-⚡ Neuro-inspired Architectures    →  Spiking neural networks, hippocampal memory models
+🧠 Clinical Neuroscience        →  Neuroinflammation, BBB dysfunction, glymphatic system
+💊 Psychopharmacology            →  Drug-brain interaction modelling, MAOI mechanisms
+🦠 Gut-Brain Axis                →  Microbiome-mediated mechanisms in neuropsychiatric conditions
+🤝 AI Humanisation               →  Affective computing, empathetic AI, conversational agents
+🔍 Mechanistic Interpretability  →  Understanding what happens inside transformers
+⚡ Brain-Computer Interfaces     →  EEG-based systems, neural signal processing
 ```
 
 ---
@@ -39,17 +42,17 @@ I'm a researcher and builder at the intersection of **neuroscience**, **artifici
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-FF6B6B?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-4A90D9?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
@@ -57,12 +60,16 @@ I'm a researcher and builder at the intersection of **neuroscience**, **artifici
 
 ## 📌 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🧠 neuro-ai-bridge](https://github.com/DimiHepburn/neuro-ai-bridge) | Mapping neuroscientific principles onto deep learning architectures | Python, PyTorch |
-| [🤝 humanising-ai](https://github.com/DimiHepburn/humanising-ai) | Framework for building emotionally intelligent, human-centred AI systems | Python, HuggingFace, NLP |
-| [🔍 llm-interpretability-notes](https://github.com/DimiHepburn/llm-interpretability-notes) | Research notes and experiments on mechanistic interpretability of LLMs | Python, Jupyter |
-| [📖 neuro-readability](https://github.com/DimiHepburn/neuro-readability) | Neuroscience-informed CLI tool that scores any text for cognitive load, readability & complexity | Python, Click |
+| Project | Description | Status |
+|--------|-------------|--------|
+| 🤖 **Sol AI Assistant** | Custom AI assistant on DeepSeek XiaoZhi ESP32-S3 hardware, self-hosted via `xiaozhi-esp32-server` with LiteLLM → Anthropic API routing | ✅ Built |
+| 🔬 **ReAct Research Agent** | Autonomous Python agent with ReAct reasoning loop, Anthropic API, PubMed search integration, and importance-weighted memory store | ✅ Built |
+| 📐 **Friction Protocol** | Original pedagogical framework for AI-augmented learning — bridging Polanyi, Schön, Floridi, and Vygotsky | 📄 Published in coursework |
+| 🦠 **MICROBE-D Study** | Proposed 12-week RCT: *B. breve* CCFM1025 as adjunctive treatment for mild-to-moderate depression, featuring 16S rRNA sequencing and inflammatory biomarkers | 📄 Study design complete |
+| [🧠 neuro-ai-bridge](https://github.com/DimiHepburn/neuro-ai-bridge) | Mapping neuroscientific principles onto deep learning architectures | 🔧 In progress |
+| [🤝 humanising-ai](https://github.com/DimiHepburn/humanising-ai) | Frameworks for building emotionally intelligent, human-centred AI systems | 🔧 In progress |
+| [🔍 llm-interpretability-notes](https://github.com/DimiHepburn/llm-interpretability-notes) | Research notes and experiments on mechanistic interpretability of LLMs | 🔧 In progress |
+| [📖 neuro-readability](https://github.com/DimiHepburn/neuro-readability) | Neuroscience-informed CLI tool scoring text for cognitive load and readability | 🐍 Python |
 
 ---
 
@@ -79,16 +86,29 @@ I'm a researcher and builder at the intersection of **neuroscience**, **artifici
 
 ## 🌱 Currently Exploring
 
+- Brain-computer interfaces and EEG signal processing for real-time neurofeedback
 - Spiking Neural Networks (SNNs) as biologically plausible learning systems
 - The role of **attention mechanisms** as analogues to human selective attention
 - Ethical frameworks for emotionally responsive AI
 - Transformer interpretability via **activation patching** and **probing classifiers**
+- MCP server integrations for research workflow automation
+
+---
+
+## 🎓 Academic Background
+
+**MSc Clinical Neuroscience** — University of Roehampton *(2025–present)*
+- Targeting Distinction | Focus: neuroinflammation, psychoneuroimmunology, psychopharmacology
+- Key outputs: BBB & glymphatic dysfunction in Huntington's disease, B cells in MS, microglia in MND
+
+**BSc (Hons) Clinical Psychology** — London South Bank University *(Graduated 2025)*
+- Dissertation on empathy and emotional contagion in couples (First Class)
 
 ---
 
 ## 📫 Get in Touch
 
-I'm always open to collaborating on research at the intersection of neuroscience and AI, or just nerding out about consciousness and computation.
+I'm open to **research collaborations**, **PhD opportunities** in neuro-AI or psychopharmacology, and **research assistant roles**. Always happy to nerd out about consciousness, computation, and the spaces in between.
 
 <div align="center">
 
@@ -99,5 +119,5 @@ I'm always open to collaborating on research at the intersection of neuroscience
 ---
 
 <div align="center">
-<i>"The brain is the last and grandest biological frontier." — James D. Watson</i>
+<i>"The brain is wider than the sky." — Emily Dickinson</i>
 </div>
