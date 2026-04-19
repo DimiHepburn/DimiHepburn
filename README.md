@@ -112,7 +112,7 @@ Targeting Distinction | Focus: neuroinflammation, psychoneuroimmunology, psychop
 Key outputs: BBB & glymphatic dysfunction in Huntington's disease, B cells in MS, microglia in MND
 
 **BSc (Hons) Clinical Psychology** — London South Bank University (Graduated 2025)
-Dissertation on empathy and emotional contagion in couples (First Class)
+Dissertation on empathy and emotional contagion in couples (2.2)
 
 ---
 
